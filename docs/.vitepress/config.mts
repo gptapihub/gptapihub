@@ -59,6 +59,7 @@ export default defineConfig({
           text: '🔄 API 中转站教程',
           collapsed: false,
           items: [
+            { text: '中转站首页', link: '/blog/api-middleman/' },
             { text: '中转站首页', link: '/blog/api-middleman/' }
           ]
         },
