@@ -1,0 +1,49 @@
+/* 网站顶部标题 */
+.VPNavBarTitle .title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+/* 顶部导航 */
+.VPNavBarMenu .VPLink {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+/* 首页主视觉区域 */
+.VPHomeHero .name {
+  font-size: 42px !important;
+  line-height: 1.2 !important;
+}
+
+.VPHomeHero .text {
+  font-size: 36px !important;
+  line-height: 1.25 !important;
+}
+
+.VPHomeHero .tagline {
+  font-size: 20px !important;
+  line-height: 1.7 !important;
+  max-width: 760px;
+}
+
+/* 首页按钮 */
+.VPHomeHero .actions .VPButton {
+  font-size: 16px;
+  padding: 0 20px;
+}
+
+/* 首页功能卡片 */
+.VPFeature {
+  border-radius: 16px;
+}
+
+.VPFeature .title {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.VPFeature .details {
+  font-size: 16px;
+  line-height: 1.8;
+}
