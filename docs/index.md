@@ -74,17 +74,6 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 <div class="articles-grid">
 
-- [**GPT-5.5 API 调用示例**](/blog/gpt-api/gpt-5-5-api-python-guide)  
-  Python 从零接入完整教程，包含完整代码示例
-
-- [**官方接口 vs 中转接口**](/blog/gpt-api/openai-api-official-vs-relay-guide)  
-  深入对比两种接入方式的优劣与适用场景
-
-- [**GPT API 国内调用指南**](/blog/gpt-api/gpt-api-china-guide)  
-  解决国内网络环境下的 API 接入问题
-
-- [**AI API 中转站完整指南**](/blog/gpt-api/ai-api-relay-integration-guide)  
-  中转站接入实战经验与最佳实践
 
 </div>
 
