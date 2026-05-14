@@ -40,7 +40,8 @@ export default defineConfig({
           text: '📚 GPT API 教程',
           collapsed: false,
           items: [
-            { text: '教程首页', link: '/blog/gpt-api/' }
+            { text: 'GPT API 教程首页', link: '/blog/gpt-api/' },
+            { text: 'GPT API 专题总览：从 Key、接入、报错到模型选择一篇讲清', link: '/blog/gpt-api/gpt-api-topic-overview' }
           ]
         },
         {
@@ -60,7 +61,8 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '中转站首页', link: '/blog/api-middleman/' },
-            { text: '中转站首页', link: '/blog/api-middleman/' }
+            { text: 'API中转站是什么？开发者为什么要用大模型 API 中转站', link: '/blog/api-middleman/what-is-api-middleman' },
+  
           ]
         },
         {
