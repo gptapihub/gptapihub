@@ -41,6 +41,9 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'GPT API 教程首页', link: '/blog/gpt-api/' },
+            { text: 'OpenAI API Key 怎么获取？拿到 Key 之后下一步该做什么', link: '/blog/gpt-api/openai-api-key-get-and-use-guide.html' },
+            { text: 'GPT API 中转站怎么选？开发者最该关注的 8 个问题', link: '/blog/gpt-api/gpt-api-middleman-selection-guide.html' },
+            { text: 'GPT API 国内怎么调用？2026 年可落地接入教程', link: '/blog/gpt-api/gpt-api-china-call-guide.html' },
             { text: 'GPT API 专题总览：从 Key、接入、报错到模型选择一篇讲清', link: '/blog/gpt-api/gpt-api-topic-overview' }
           ]
         },

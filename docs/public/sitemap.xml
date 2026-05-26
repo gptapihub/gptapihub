@@ -45,9 +45,28 @@
   </url>
   
     <url>
-    <loc>https://gptapihub.com./blog/api-middleman/what-is-api-middleman.html</loc>
+    <loc>https://gptapihub.com/blog/api-middleman/what-is-api-middleman.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+    <url>
+    <loc>https://gptapihub.com/blog/gpt-api/openai-api-key-get-and-use-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+      <url>
+    <loc>https://gptapihub.com/blog/gpt-api/gpt-api-china-call-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+        <url>
+    <loc>https://gptapihub.com/blog/gpt-api/gpt-api-middleman-selection-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 
 </urlset>
