@@ -79,4 +79,10 @@
     <priority>0.8</priority>
   </url>
 
+        <url>
+    <loc>https://gptapihub.com/blog/gpt-api/official-vs-relay-gpt-api.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>

@@ -21,8 +21,8 @@ export default defineConfig({
     
     nav: [
       { text: '首页', link: '/' },
-      { text: 'API 教程', link: '/blog/gpt-api/' },
-      { text: '中转站', link: 'https://jeniya.cn', target: '_blank' },
+      { text: 'GPT API 教程', link: '/blog/gpt-api/' },
+      { text: 'GPT API 中转站', link: 'https://jeniya.cn', target: '_blank' },
       { text: '模型价格', link: '/pricing' },
       { 
         text: '更多',
@@ -41,6 +41,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'GPT API 教程首页', link: '/blog/gpt-api/' },
+            { text: 'OpenAI 官方 API 和 GPT API 中转接口有什么区别？开发者该如何选择？', link: '/blog/gpt-api/official-vs-relay-gpt-api.html' },
             { text: 'GPT API 国内怎么调用？免翻墙直连 OpenAI API 接入完整教程', link: '/blog/gpt-api/how-to-call-gpt-api-in-china.html' },
             { text: 'GPT API中转是什么？国内开发者为什么要用 GPT API 中转站？', link: '/blog/gpt-api/what-is-gpt-api-relay.html' },
             { text: 'OpenAI API Key 怎么获取？拿到 Key 之后下一步该做什么', link: '/blog/gpt-api/openai-api-key-get-and-use-guide.html' },
