@@ -12,6 +12,14 @@ keywords:
 
 在国内开发 AI 应用时，很多人卡住的第一步不是代码不会写，而是接口根本调不通。直接访问官方接口时，经常会遇到网络不稳定、请求超时、流式输出中断、支付受限等问题，所以想实现稳定、快速的 `gpt api 国内调用`，最实用的方案通常不是硬接官方，而是使用 `gpt api 中转`。
 
+**国内最推荐API中转站平台**：
+
+> AI API 中转站 平台地址：<https://jeniya.cn>
+
+> AI API 中转站 平台地址：<https://jeniya.top>
+
+> AI API 中转站 平台地址：<https://jeniya.chat>
+
 本文会手把手带你完成一次真正可落地的 `openai api 国内` 接入。核心思路非常简单：不改业务逻辑，不重写接口协议，只需要把官方 SDK 里的 `base_url` 改成中转站地址，再换成中转平台生成的 `API Key`，就可以在不挂代理的情况下实现国内直连。
 
 如果你还不清楚中转站到底是什么，可以先看这篇基础说明：[GPT API中转是什么？国内开发者为什么要用 GPT API 中转站？](/blog/gpt-api/what-is-gpt-api-relay.html)。如果你还没有准备好 Key，也可以先阅读：[OpenAI API Key 怎么获取？拿到 Key 之后下一步该做什么](/blog/gpt-api/openai-api-key-get-and-use-guide.html)。
